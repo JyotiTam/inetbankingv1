@@ -22,7 +22,10 @@ public class TC_loginTest_001 extends BaseClass{
 		
 		LoginPage lp=new LoginPage(driver);
 		
-		//method 1 from loginpage 
+		//method 1 from loginpage ggggg
+		
+		System.out.println("test GIT");
+		
 		lp.fillusername(username);
 		logger.info("Entered username");
 		
